@@ -1,5 +1,5 @@
 # JHAdjustButton
-Layout Image and Title
+Layout Image and Title. 调整图片与标题的位置.
 
 # What
 - Image Left, Title Right
